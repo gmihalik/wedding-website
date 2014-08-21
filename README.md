@@ -1,6 +1,6 @@
-------------------------------------------------------
-----Wedding Website built as an SPA using AnjularJS---
-------------------------------------------------------
+---------------------------------------------------
+--Wedding Website built as an SPA using AnjularJS--
+---------------------------------------------------
 
 Welcome to my personal wedding website!
 
