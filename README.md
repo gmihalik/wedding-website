@@ -1,8 +1,8 @@
---------------------------------------------------------------------------------
-----------------Wedding Website built as an SPA using AnjularJS-----------------
---------------------------------------------------------------------------------
+------------------------------------------------------
+----Wedding Website built as an SPA using AnjularJS---
+------------------------------------------------------
 
-Welcome to my wedding website!
+Welcome to my personal wedding website!
 
 This site is built as a single page application (SPA) using the AngularJS 
 framework
